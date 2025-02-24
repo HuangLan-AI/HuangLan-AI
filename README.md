@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a AI Engineer and Data Scientist.  
+I'm a Data Scientist and AI Engineer.  
